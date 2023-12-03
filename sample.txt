@@ -1,1 +1,2 @@
 Sample modification on working with repos
+Sample text on ehich various git commands will be performed 

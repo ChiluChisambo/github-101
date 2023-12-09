@@ -1,0 +1,2 @@
+Learning stashing
+Which is a git method
